@@ -50,8 +50,8 @@ Công cụ tự động tải và tối ưu hóa hình ảnh với kích thướ
 1. Clone repository:
 
 ```bash
-git clone https://github.com/yourusername/Auto_Genator_Image_10KB.git
-cd Auto_Genator_Image_10KB
+git clone https://github.com/hasoftware/Download-Random-Image.git
+cd Download-Random-Image
 ```
 
 2. Cài đặt các thư viện cần thiết:
@@ -71,7 +71,7 @@ landscape, nature, mountain, beach, sunset, forest, ocean, waterfall, desert, ci
 1. Chạy chương trình:
 
 ```bash
-python download_landscape.py
+python download_random_image.py
 ```
 
 2. Cấu hình các tùy chọn:
@@ -90,9 +90,9 @@ python download_landscape.py
 ## Cấu trúc thư mục
 
 ```
-Auto_Genator_Image_10KB/
+Download-Random-Image/
 │
-├── download_landscape.py    # Mã nguồn chính
+├── download_random_image.py    # Mã nguồn chính
 ├── keyword.txt              # Danh sách từ khóa tìm kiếm cho Pexels
 ├── requirements.txt         # Danh sách thư viện cần thiết
 ├── README.md                # Tài liệu hướng dẫn
